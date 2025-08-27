@@ -1,0 +1,20 @@
+SMAP
+Admin_005fCategorylist_jsp.java
+JSP
+*S JSP
+*F
++ 0 Admin_Categorylist.jsp
+Admin_Categorylist.jsp
++ 1 Admin_Header.jsp
+Admin_Header.jsp
+*L
+5,13:53
+5#1,50:66
+17#0,35:115
+52,17:151
+68,3:168
+71,5:171,3
+76,5:186
+81,10:192
+90,11:202
+*E

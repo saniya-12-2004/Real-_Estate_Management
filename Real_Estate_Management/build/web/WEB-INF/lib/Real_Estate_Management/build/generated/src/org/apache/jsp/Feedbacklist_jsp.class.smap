@@ -1,0 +1,20 @@
+SMAP
+Feedbacklist_jsp.java
+JSP
+*S JSP
+*F
++ 0 Feedbacklist.jsp
+Feedbacklist.jsp
++ 1 Admin_Header.jsp
+Admin_Header.jsp
+*L
+5,13:53
+5#1,50:66
+17#0,36:115
+53,17:152
+69,2:169
+71,3:171,3
+74,6:180
+80,10:187
+89,10:197
+*E

@@ -1,0 +1,20 @@
+SMAP
+Admin_005fPropertylist_jsp.java
+JSP
+*S JSP
+*F
++ 0 Admin_Propertylist.jsp
+Admin_Propertylist.jsp
++ 1 Admin_Header.jsp
+Admin_Header.jsp
+*L
+5,13:53
+5#1,56:66
+17#0,46:121
+63,17:168
+79,2:185
+81,13:187,3
+94,5:226
+99,10:232
+108,9:242
+*E
