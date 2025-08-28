@@ -18,7 +18,7 @@ It allows Admins, Vendors, and Users to manage properties, bookings, payments, a
 
 ## 📂 Project Structure
 
-Real_Estate_Management/
+<pre markdown="1"> ```Real_Estate_Management/
 ├── src/
 │ ├── admin/ (Admin Java classes)
 │ ├── user/ (User Java classes)
@@ -34,7 +34,7 @@ Real_Estate_Management/
 ├── database/
 │ └── mydatabase.sql (MySQL database dump)
 └── README.md
-
+</pre>
 
 ---
 
